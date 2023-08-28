@@ -1,7 +1,7 @@
 {
   "name": "icanhazdadjokes",
   "version": "0.1.0",
-  "homepage": "http://vasqmig.github.io/react-jokes-classes",
+  "homepage": "http://vasqmig.github.io/DeployJokes",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "*",
