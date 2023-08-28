@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DeployJokes/static/css/main.d09b0095.css",
+    "main.js": "/DeployJokes/static/js/main.30763586.js",
+    "index.html": "/DeployJokes/index.html",
+    "main.d09b0095.css.map": "/DeployJokes/static/css/main.d09b0095.css.map",
+    "main.30763586.js.map": "/DeployJokes/static/js/main.30763586.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09b0095.css",
+    "static/js/main.30763586.js"
+  ]
+}
